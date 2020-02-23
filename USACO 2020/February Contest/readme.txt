@@ -1,0 +1,1 @@
+Contest hasn't finished yet. Come back on Monday!
