@@ -52,4 +52,4 @@ int main() {
     ans-=(long double)k*upgradedValue;
     printf("%d\n",(int)ans);
     return 0;
-}
+}                    
